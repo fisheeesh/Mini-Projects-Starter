@@ -1,8 +1,18 @@
-body{
+/* ?For Pricing Card */
+
+/* body{
     font-family: 'Poppins', sans-serif;
+    
 }
 @media(min-width: 800px){
     .container{
         width: 800px;
+    }
+} */
+
+/* ?For Rating Component */
+@media(min-width: 600px){
+    .container{
+        width: 600px;
     }
 }
