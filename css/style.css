@@ -11,8 +11,16 @@
 } */
 
 /* ?For Rating Component */
-@media(min-width: 600px){
+/* @media(min-width: 600px){
     .container{
         width: 600px;
+    }
+} */
+
+/* ?For User List */
+@media(max-width : 767px){
+    .user-list{
+        justify-content: center !important;
+        margin-top: 20px;
     }
 }
